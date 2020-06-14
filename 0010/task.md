@@ -5,7 +5,7 @@
 Vasya studied quadratic equations at school and realized how easily 
 they are solved by calculating the discriminant. But Petya told him 
 about a method for solving cubic equations of the 
-form `A * X^3 + B * X^2 + C * X + D = 0`. At the mathematics faculty, 
+form `A*X^3 + B*X^2 + C*X + D = 0`. At the mathematics faculty, 
 Vasya was asked to solve about a hundred equations of this kind. But, 
 unfortunately, Vasya forgot the formulas that Petya told him about. 
 But Vasya knew that all the roots of the equations are integers and 
