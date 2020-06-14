@@ -1,4 +1,4 @@
-#Five five - twenty five!
+#Five * five = twenty five!
 
 *(Time: 1 s, Memory: 16 Mb, Difficulty: 8%)*
 
