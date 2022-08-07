@@ -1,0 +1,1 @@
+https://acmp.ru/?main=task&id_task=12
