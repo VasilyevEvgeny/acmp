@@ -13,3 +13,11 @@ add_executable(0007 0007/0007.cpp)
 add_executable(0008 0008/0008.cpp)
 add_executable(0009 0009/0009.cpp)
 add_executable(0010 0010/0010.cpp)
+
+add_executable(0012 0012/0012.cpp)
+
+add_executable(0108 0195/0195.cpp)
+
+add_executable(0903 0903/0903.cpp)
+
+add_executable(1109 1109/1109.cpp)
