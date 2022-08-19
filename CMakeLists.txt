@@ -25,3 +25,5 @@ add_executable(1109 1109/1109.cpp)
 add_executable(1110 1110/1110.cpp)
 
 add_executable(1111 1111/1111.cpp)
+
+add_executable(1112 1112/1112.cpp)
